@@ -1,8 +1,8 @@
 # EN.525.615 Laboratory 02
-## Dr. David Jansing
+Dave Jansing  
+Spring 2022
 
 - [EN.525.615 Laboratory 02](#en525615-laboratory-02)
-  - [Dr. David Jansing](#dr-david-jansing)
   - [Experiment 1:  C Programming Examples](#experiment-1--c-programming-examples)
     - [Project Setup](#project-setup)
     - [example_v0](#example_v0)
@@ -10,7 +10,7 @@
     - [example_v2](#example_v2)
     - [example_v3](#example_v3)
     - [example_v4](#example_v4)
-    - [Example Notes](#example-notes)
+    - [Notes](#notes)
   - [Experiment 2:  Programming Lab Exercises](#experiment-2--programming-lab-exercises)
     - [Project Setup](#project-setup-1)
     - [Exercise 1](#exercise-1)
@@ -782,7 +782,7 @@ Step through the code, set break point and explore the logic to make sure you un
 
 Now is a great time to commit your code and push it to GitHub.
 
-### Example Notes
+### Notes
 
 - The examples.c file is getting rather long
   - In practice I would have created a new file for each example
