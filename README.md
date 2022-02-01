@@ -2,6 +2,8 @@
 Dave Jansing  
 Spring 2022
 
+NOTE:  You will be responsible for writing a lab report for this laboratory.  You will modify the `lab_report.md` file in the `report` directory in your repository, putting any images, etc into the `media` directory.  Markdown cheat sheets can be found in the `supporting` directory.
+
 - [EN.525.615 Laboratory 02](#en525615-laboratory-02)
   - [Experiment 1:  C Programming Examples](#experiment-1--c-programming-examples)
     - [Project Setup](#project-setup)
