@@ -816,24 +816,6 @@ Apply the knowledge you learned in the `Hello World Tutorial` above to complete 
 - The function prototype for the entry of each exercies shall take no arguments and return void. e.g.:
   -- `void ex1(void);`
   -- `void ex2(void);`
-- It is recommended to place conditional #if/#endif blocks around each exercies to disable/endable code as needed.
-
-You main should look similar to this code block:
-
-```
-while(1){
-#if ENABLE_EX1 == (1)
-    ex1();
-#endif
-#if ENABLE_EX2 == (1)
-    ex2();
-#endif
-//...
-#if ENABLE_EX9 == (1)
-    ex9();
-#endif
-}
-```
 
 If you have common helper functions used across multiple exercises then consider placing it in `utils.c` and `utils.h` files.
 
