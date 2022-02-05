@@ -804,9 +804,9 @@ TIP: Please remember to commit your code after major updates.
 
 ### Project Setup
 
-In the same workspace as the `Hello_World_Tutorial` create a new C/C++ Project named `exercises`
+In your workspace, create a new C/C++ Project named `exercises`
 
-Apply the knowledge you learned in the `Hello World Tutorial` and  above to complete this step.
+Apply the knowledge you learned in the `Hello World Tutorial` and above to complete this step.
 
 **Create a Debug Configuration Execute the Application with the Debugger**
 
