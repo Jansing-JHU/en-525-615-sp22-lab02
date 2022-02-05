@@ -1,0 +1,27 @@
+/*
+ ============================================================================
+ Name        : examples.c
+ Author      : EDJ
+ Version     :
+ Copyright   : 2022, EDJ, JHU
+ Description : Lab 2, Experiment 1:  Examples
+ ============================================================================
+ */
+
+#include <stdio.h>       //for printf
+#include <stdlib.h>      //srand,rand
+#include <string.h>      //for memcpy/strcpy
+#include <unistd.h>      //for sleep
+#include <time.h>        //for clock
+
+#define ECLIPSE_FLUSH_FIX (1)  //Conditionally Disable Buffering print messages
+
+int main(void) {
+	#if ECLIPSE_FLUSH_FIX == (1)
+		//WARNING: This doesn't like it if you don't have a new line (ie \n)
+		setvbuf(stdout, NULL, _IONBF, 0);
+		setvbuf(stderr, NULL, _IONBF, 0);
+	#endif
+
+	return EXIT_SUCCESS;
+}

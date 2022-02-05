@@ -1,0 +1,127 @@
+08:04:13 **** Build of configuration Debug for project examples ****
+make all 
+Building file: ../src/examples.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/examples.d" -MT"src/examples.o" -o "src/examples.o" "../src/examples.c"
+Finished building: ../src/examples.c
+ 
+Building target: examples
+Invoking: MacOS X C Linker
+gcc  -o "examples"  ./src/examples.o   
+Finished building target: examples
+ 
+08:08:10 **** Incremental Build of configuration Debug for project examples ****
+make all 
+Building file: ../src/examples.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/examples.d" -MT"src/examples.o" -o "src/examples.o" "../src/examples.c"
+Finished building: ../src/examples.c
+ 
+Building target: examples
+Invoking: MacOS X C Linker
+gcc  -o "examples"  ./src/examples.o   
+Finished building target: examples
+ 
+08:08:47 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:08:57 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:11:18 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:11:35 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:12:21 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:12:29 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:13:24 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:14:55 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:16:20 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:17:50 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:21:10 **** Incremental Build of configuration Debug for project examples ****
+make all 
+Building file: ../src/examples.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/examples.d" -MT"src/examples.o" -o "src/examples.o" "../src/examples.c"
+Finished building: ../src/examples.c
+ 
+Building target: examples
+Invoking: MacOS X C Linker
+gcc  -o "examples"  ./src/examples.o   
+Finished building target: examples
+ 
+08:25:27 **** Incremental Build of configuration Debug for project examples ****
+make all 
+Building file: ../src/examples.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/examples.d" -MT"src/examples.o" -o "src/examples.o" "../src/examples.c"
+Finished building: ../src/examples.c
+ 
+Building target: examples
+Invoking: MacOS X C Linker
+gcc  -o "examples"  ./src/examples.o   
+Finished building target: examples
+ 
+08:52:10 **** Incremental Build of configuration Debug for project examples ****
+make all 
+Building file: ../src/examples.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/examples.d" -MT"src/examples.o" -o "src/examples.o" "../src/examples.c"
+Finished building: ../src/examples.c
+ 
+Building target: examples
+Invoking: MacOS X C Linker
+gcc  -o "examples"  ./src/examples.o   
+Finished building target: examples
+ 
+08:52:24 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:53:13 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:58:43 **** Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:59:01 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+08:59:27 **** Clean-only build of configuration Debug for project examples ****
+make clean 
+rm -rf  ./src/examples.o  ./src/examples.d  examples
+ 
+08:59:27 **** Build of configuration Debug for project examples ****
+make all 
+Building file: ../src/examples.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/examples.d" -MT"src/examples.o" -o "src/examples.o" "../src/examples.c"
+Finished building: ../src/examples.c
+ 
+Building target: examples
+Invoking: MacOS X C Linker
+gcc  -o "examples"  ./src/examples.o   
+Finished building target: examples
+ 
+08:59:38 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+09:28:48 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
+09:30:03 **** Incremental Build of configuration Debug for project examples ****
+make all 
+make: Nothing to be done for `all'.
