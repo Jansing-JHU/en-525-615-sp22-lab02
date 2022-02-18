@@ -36,3 +36,33 @@
 2022-02-05 09:28:10,704 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
 2022-02-05 09:28:12,123 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
 2022-02-05 09:28:14,221 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-02-07 08:15:43,822 [INFO] Activator:177 - 
+
+
+2022-02-07 08:15:43,824 [INFO] Activator:178 - !SESSION log4j initialized
+2022-02-07 08:15:44,661 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:15:44,662 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:15:44,664 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:15:44,666 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:15:44,667 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:15:44,669 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:15:47,894 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-02-07 08:15:51,695 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-02-07 08:17:33,752 [INFO] Activator:177 - 
+
+
+2022-02-07 08:17:33,754 [INFO] Activator:178 - !SESSION log4j initialized
+2022-02-07 08:17:34,749 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:17:34,750 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:17:34,752 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:17:34,754 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:17:34,756 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:17:34,757 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2022-02-07 08:17:35,561 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-02-07 08:17:37,851 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-02-07 08:17:57,598 [INFO] Activator:177 - 
+
+
+2022-02-07 08:17:57,600 [INFO] Activator:178 - !SESSION log4j initialized
+2022-02-07 08:17:59,040 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-02-07 08:18:01,084 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
